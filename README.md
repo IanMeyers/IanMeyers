@@ -28,15 +28,15 @@ https://github.com/awslabs/aws-kinesis-beanstalk-workers
 
 # My Patents
 
-P-20559-US Utility for Balanced Scaling of Kinesis Streams using EC2 AutoScaling Concepts, Granted, April 2015. Amazon Web Services
+**P-20559-US** Utility for Balanced Scaling of Kinesis Streams using EC2 AutoScaling Concepts, Granted, April 2015. Amazon Web Services
 
-P-39698-US Kinesis Stream Archiver to DynamoDB, Granted, June 2016, Amazon Web Services
+**P-39698-US** Kinesis Stream Archiver to DynamoDB, Granted, June 2016, Amazon Web Services
 
-P-45188-US Secure Programming Interface Hierarchies, Granted, April 2018, Amazon Web Services
+**P-45188-US** Secure Programming Interface Hierarchies, Granted, April 2018, Amazon Web Services
 
-P-60938-US Event Publishing System for Heterogenous Events, Granted, November 2018, Amazon Web Services
+**P-60938-US** Event Publishing System for Heterogenous Events, Granted, November 2018, Amazon Web Services
 
-P-65684-US Systems and Methods for Rapidly Provisioned Data Management Services, Granted, October 2019, Amazon Web Services
+**P-65684-US** Systems and Methods for Rapidly Provisioned Data Management Services, Granted, October 2019, Amazon Web Services
 
 #📫 Contact
 mailto://meyers.ian@gmail.com
