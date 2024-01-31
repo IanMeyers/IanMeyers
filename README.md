@@ -48,7 +48,7 @@ https://github.com/awslabs/aws-kinesis-beanstalk-workers
 
 **P-65684-US**: Systems and Methods for Rapidly Provisioned Data Management Services, Granted, October 2019, Amazon Web Services
 
-#📫 Contact
+# 📫 Contact
 
 meyers.ian@gmail.com
 
